@@ -12,10 +12,10 @@
             ├──XXXX.jpg
          ├──testing_images
             ├──XXXX.jpg
-         ├──classes.txt            # contain 200 bird species and it's number (e.g. 001.Black_footed_Albatross)
-         ├──training_labels.txt    # filename and label mapping (e.g. 4283.jpg 115.Brewer_Sparrow)
-         ├──testing_img_order.txt  # test filename (e.g. 4282.jpg)
-         ├──fold                   # we split training data into 5 fold (i=1,2,3,4,5)
+         ├──classes.txt            # contain 200 bird species and it's number
+         ├──training_labels.txt    # filename and label mapping
+         ├──testing_img_order.txt  # test filename
+         ├──fold                   # we split training data into 5 fold
              ├──fold1.txt
              ├──fold2.txt
              ├──fold3.txt
