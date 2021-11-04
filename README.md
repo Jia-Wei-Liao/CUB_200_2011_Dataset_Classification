@@ -1,4 +1,9 @@
 # VRDL_HW1_CUB_200_2011_Dataset_Classification
+In this homework, we implement the deep learning method to classify the birds images.
+To avoid over-fitting, we use many augmentation to increase our training data. Then
+we train the model with five fold cross validation. For the test time, we collect the
+prediction which generate by five fold model and voting them.
+
 ## Environment
 - `numpy==1.19.3`
 - `torch==1.9.0+cu111`
