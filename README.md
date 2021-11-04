@@ -50,6 +50,6 @@ Then put the folder on the correct place.
 **Step 2.** 
 Open the `main02_ensemble.py` and modify `params.file_root` by your file root.
 - You can adjust the checkpoint on the `ModelList` according to your requirement. 
-- If you suffer from Out-Of-Memory errors, please modify `params.batch_size` be lower.
+- If you suffer from Out-Of-Memory errors, please reduce `params.batch_size`.
 
 
