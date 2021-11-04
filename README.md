@@ -29,14 +29,15 @@
 
 
 ## Training
-`main01_training.py`
+Open the `main01_training.py` and modify `params.file_root` by your file root. If you want to do the k-fold cross validation, set `params.K_fold == True`.
+
 
 
 ## Inferece
 **Step 1**
 Download the pretrain model on the Google Drive
-https://drive.google.com/drive/folders/10Lt3mBJ0sucQNb-WwA1Llq-XLHWpjfVn?usp=sharing
+https://drive.google.com/drive/folders/10Lt3mBJ0sucQNb-WwA1Llq-XLHWpjfVn?usp=sharing.
 Then put the folder on the correct place.
 
 **Step 2** 
-open the `main02_ensemble.py` and modify `params.file_root` by your file root
+Open the `main02_ensemble.py` and modify `params.file_root` by your file root.
