@@ -22,7 +22,7 @@
              ├──fold4.txt
              ├──fold5.txt
       ├──src                       # functions inside
-      ├──checkpoint                # trained model weights (you need to download this file on Google Drive)
+      ├──checkpoint                # trained model weights (download this file on Google Drive)
       ├──main01_training.py
       ├──main02_ensemble.py
       └──README.md
