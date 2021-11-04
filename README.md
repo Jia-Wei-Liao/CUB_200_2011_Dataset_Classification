@@ -29,7 +29,8 @@
 
 
 ## Training
-Open the `main01_training.py` and modify `params.file_root` by your file root. If you want to do the k-fold cross validation, set `params.K_fold == True`.
+Open the `main01_training.py` and modify `params.file_root` by your file root.
+- If you want to do the k-fold cross validation, set `params.K_fold == True`.
 
 
 
