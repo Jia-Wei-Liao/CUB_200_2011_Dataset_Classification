@@ -34,4 +34,10 @@ torchvision==0.10.0+cu111
 
 
 ## Inferece
-`main02_ensemble.py`
+**Step 1**
+Download the pretrain model on the Google Drive
+https://drive.google.com/drive/folders/10Lt3mBJ0sucQNb-WwA1Llq-XLHWpjfVn?usp=sharing
+Then put the folder on the correct place.
+
+**Step 2** 
+open the `main02_ensemble.py` and modify `params.file_root` by your file root
