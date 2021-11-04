@@ -5,9 +5,9 @@ we train the model with five fold cross validation. For the test time, we collec
 prediction which generate by five fold model and voting them.
 
 ## Environment
-- `numpy==1.19.3`
-- `torch==1.9.0+cu111`
-- `torchvision==0.10.0+cu111`
+- `numpy==1.18.5`
+- `torch==1.8.1+cu101`
+- `torchvision==0.9.1+cu101`
 
 
 ## File Structure
