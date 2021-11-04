@@ -41,6 +41,7 @@ Open the `main01_training.py` and modify `params.file_root` by your file root.
 
 ## Inferece
 There are two step that you need to notice.  
+
 **Step 1.**
 Download the pretrain model on the
 https://drive.google.com/drive/folders/10Lt3mBJ0sucQNb-WwA1Llq-XLHWpjfVn?usp=sharing.
