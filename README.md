@@ -39,11 +39,11 @@ Open the `main01_training.py` and modify `params.file_root` by your file root.
 - If you want to do the k-fold cross validation, please set `params.K_fold == True`.
 
 
-## Inferece
+## Evaluation (reproducing submission)
 There are two step that you need to notice.  
 
 **Step 1.**
-Download the pretrain model on the
+Download the all pretrain model on the
 https://drive.google.com/drive/folders/10Lt3mBJ0sucQNb-WwA1Llq-XLHWpjfVn?usp=sharing.
 Then put the folder on the correct place.
 
