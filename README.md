@@ -6,8 +6,8 @@ prediction which generate by five fold model and voting them.
 
 ## Environment
 - `numpy == 1.18.5`
-- `torch == 1.8.1+cu101`
-- `torchvision == 0.9.1+cu101`
+- `torch == 1.8.1 + cu101`
+- `torchvision == 0.9.1 + cu101`
 
 
 ## File Structure
